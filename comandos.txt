@@ -1,2 +1,3 @@
 aqui solo hay comandos
 aqui solo hay comandos
+cp=copiar
